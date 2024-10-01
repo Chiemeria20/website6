@@ -1,0 +1,98 @@
+body{
+    background-color: white;
+    
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    border-radius:100px ;
+}
+h3{
+    font-size: 14px;
+    margin-top:-25px;
+    margin-left: 35px;
+}
+p{
+    border: 1px solid cornsilk;
+    border-radius: 20px;
+    color: orange;
+    background-color: cornsilk;
+    font-size: 12px;
+}
+.menu{
+    border: 1px solid green;
+    border-radius: 10px;
+    height: 100px;
+    background-color: green;
+}
+.imgmove{
+    
+    text-align: right;
+    margin-top: -40px; 
+    
+}
+.headset{
+    width: 50px;
+    height:25px;
+    
+    
+    
+}
+.scan{
+    width: 25px;
+    height:25px;
+}
+.not{
+    width: 35px;
+    height: 35px;
+    
+}
+
+.not2{
+    text-align: right;
+    
+}
+.thick{
+    width: 20px;
+    height:20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.available{
+    color: white;
+    font-size: 12px;
+    margin-top: -19px;
+    margin-left: 30px;
+}
+.eyelogo{
+    width: 25px;
+    height: 25px;
+    margin-left: 120px;
+    
+}
+.move{
+    margin-top: -37px;
+}
+.transaction{
+    text-align: right;
+    color: white;
+    font-size: 12px;
+    margin-top: -30px;
+}
+.money{
+    color: white;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+}
+.add{
+    background-color: white;
+    color: green;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-size: 12px;
+    /* margin-left: px; */
+    margin-top: -50px;
+    width: 75px;
+    height: 27px;
+}
